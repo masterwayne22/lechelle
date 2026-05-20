@@ -1,0 +1,6 @@
+{
+  "name": "L'Échelle Gastronomy",
+  "description": "Sophisticated website for L'Échelle Gastronomy. Explore our fine-dining seasonal menus, reserve elegant tables, and experience an extraordinary culinary journey of Italian, French, and Continental gastronomy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
