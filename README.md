@@ -1,32 +1,27 @@
 🚀 Lechelle
 
-A modern, responsive, production-ready web experience built with React, Tailwind CSS, and optimized deployment architecture.
-
-
-
 
 🌐 Live Demo
 
-🔗 Live Website: https://your-vercel-link.vercel.app
-
+🔗 Live Website:
+https://lechelle.vercel.app/
 📌 About The Project
 
-Lechelle is a modern frontend web application focused on delivering a clean, premium, and highly responsive user experience across all devices.
+Lechelle is a modern frontend web application focused on delivering a premium and highly responsive user experience across all devices.
 
-The project was designed with production-level frontend practices including:
+✨ Built With Modern Frontend Practices
+⚡ Fully responsive UI
+🧩 Modern component-based architecture
+🖼️ Optimized image handling
+📱 Mobile-first development approach
+🚀 Fast deployment workflow
+🧼 Clean and scalable codebase
+🎯 Smooth and interactive user experience
+📐 Structured and maintainable frontend system
 
-Fully responsive UI
-Modern component architecture
-Optimized image handling
-Mobile-first design
-Fast deployment workflow
-Clean and scalable codebase
-Smooth user interactions
-
-This project reflects strong frontend engineering principles and modern UI/UX implementation.
+This project reflects strong frontend engineering principles along with modern UI/UX implementation.
 
 ✨ Features
-
 ✅ Fully Responsive Design
 ✅ Mobile-First Architecture
 ✅ Optimized Performance
@@ -37,15 +32,14 @@ This project reflects strong frontend engineering principles and modern UI/UX im
 ✅ Reusable Components
 ✅ SEO-Friendly Structure
 ✅ Cross-Device Compatibility
-
 🛠️ Tech Stack
-Frontend
+🎨 Frontend
 React.js
 Tailwind CSS
 JavaScript (ES6+)
 HTML5
 CSS3
-Deployment & Tools
+🚀 Deployment & Tools
 Vercel
 GitHub
 VS Code
@@ -58,20 +52,18 @@ The application is optimized for:
 📲 Tablets
 💻 Laptops
 🖥️ Large Desktop Screens
-
-Built using:
-
+⚙️ Built Using
 Flexbox
 CSS Grid
 Tailwind Responsive Utilities
 Mobile-first breakpoints
 ⚡ Performance Optimizations
-Optimized asset loading
-Lazy-loaded images
-Scalable folder structure
-Lightweight UI components
-Fast build performance
-Responsive image handling
+🚀 Optimized asset loading
+🖼️ Lazy-loaded images
+📂 Scalable folder structure
+⚡ Lightweight UI components
+📉 Fast build performance
+📱 Responsive image handling
 📂 Project Structure
 public/
  ├── images/
@@ -98,10 +90,8 @@ npm run dev
 
 The project is deployed using:
 
-Vercel
-
-Deployment workflow:
-
+▲ Vercel
+📦 Deployment Workflow
 git add .
 git commit -m "updated project"
 git push
@@ -112,32 +102,31 @@ Automatic deployment is handled through GitHub integration.
 
 This project demonstrates:
 
-Frontend architecture skills
-Responsive web design
-Deployment workflows
-Git & GitHub version control
-Production-ready UI implementation
-Component-based development
-Performance-focused frontend engineering
+🧠 Frontend architecture skills
+📱 Responsive web design
+🚀 Deployment workflows
+🔧 Git & GitHub version control
+🎨 Production-ready UI implementation
+🧩 Component-based development
+⚡ Performance-focused frontend engineering
 📸 Preview
 
-Add screenshots or GIFs here.
 
-Example:
 
-![Homepage](./public/images/preview.png)
+
 🔮 Future Improvements
-Dark mode support
-Backend integration
-Authentication system
-Advanced animations
-API integrations
-Enhanced accessibility
+🌙 Dark mode support
+🔐 Authentication system
+🔗 Backend integration
+🎞️ Advanced animations
+📡 API integrations
+♿ Enhanced accessibility
 👨‍💻 Author
-Your Name
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
-Portfolio: https://yourportfolio.com
+Your Name:Krishiv Sarva
+GitHub: https://github.com/masterwayne22
+LinkedIn: https://www.linkedin.com/in/krishiv-sarva-a61101347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
+
+
